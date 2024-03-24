@@ -6,4 +6,4 @@
 - 🌱 I’m still learning all about data analytics and more!
 - 📫 How to reach me: nat.gidon@gmail.com or +33 6 08 89 83 20.
 
-### Please find here my data analytics portfolio : [GitHub portfolio](https://nathaliegidon.github.io/portfolio/)
+### Please find here my data analytics portfolio : [GitHub portfolio](https://nathaliegidon.github.io)
